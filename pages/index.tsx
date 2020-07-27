@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 const IndexPage: React.FC = () => {
   return (
-    <div className="max-w-full min-h-screen flex justify-center items-center">
+    <div className="flex items-center justify-center max-w-full min-h-screen">
       <h1>Hello World</h1>
     </div>
-  )
-}
+  );
+};
 
-export default IndexPage
+export default IndexPage;
