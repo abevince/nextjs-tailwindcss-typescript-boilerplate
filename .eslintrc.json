@@ -2,6 +2,7 @@
   "parser": "@typescript-eslint/parser",
   "plugins": [
     "react",
+    "react-hooks",
     "@typescript-eslint",
     "prettier"
   ],
@@ -42,6 +43,7 @@
         "argsIgnorePattern": "^_"
       }
     ],
+    
     "no-console": [
       2,
       {
@@ -53,8 +55,8 @@
       {
         "trailingComma": "es5",
         "singleQuote": true,
-        "semi": false,
-        "endOfLine": "crlf"
+        "semi": true,
+        "endOfLine": "lf"
       }
     ] 
   },
