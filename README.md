@@ -8,7 +8,7 @@ This project is a boiler plate for setting up a project with NextJS-TailWindCss 
 
 
 
-# NextJS, TailWindCSs, and TypeScript BoilerPlate
+# NextJS, TailWindCss, and TypeScript BoilerPlate
 Simple biolerplate for building NextJS applications server using TailWindCss, and TypeScript 
 
 
